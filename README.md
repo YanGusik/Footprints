@@ -1,4 +1,4 @@
-# :feet: Footprints for (UTM and Referrer Tracking)
+# :feet: Footprints for (UTM and Referrer Tracking) with Laravel 11 support
 
 ![Footprints for Laravel (UTM and Referrer Tracking)](readme-header.jpg)
 
@@ -8,7 +8,7 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 
 
-Footprints is a simple registration attribution tracking solution for Laravel 7+
+Footprints is a simple registration attribution tracking solution for Laravel 11+
 
 > “I know I waste half of my advertising dollars...I just wish I knew which half.” ~ *Henry Procter*.
 
@@ -267,8 +267,8 @@ If you run into any issues, have suggestions or would like to expand this packag
 
 ## Thanks
 
-Thanks to ZenCast, some of the [best Podcast Hosting](https://zencast.fm?ref=footprints-github) around.
-
+Thanks to ZenCast, some of the [best Podcast Hosting](https://zencast.fm?ref=footprints-github) around.\
+Thanks [YanGusik](https://github.com/YanGusik) for upgrade library to laravel 11.x
 
 
 ## License
